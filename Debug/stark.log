@@ -1,0 +1,5 @@
+﻿  stark.cpp
+C:\Users\stark\source\repos\stark\stark.cpp(14): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'long', possible loss of data
+C:\Users\stark\source\repos\stark\stark.cpp(39): warning C4477: 'sprintf_s' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+C:\Users\stark\source\repos\stark\stark.cpp(49): warning C4244: '=': conversion from 'ULONGLONG' to 'long', possible loss of data
+  stark.vcxproj -> C:\Users\stark\source\repos\stark\Debug\stark.exe
